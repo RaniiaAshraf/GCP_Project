@@ -43,11 +43,25 @@ sudo docker push gcr.io/rania-project-375711/application
 
 - redis-service.yaml
   <div>
-  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/redis-service.png" width="600" height="600" > 
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/redis-service.png" width="600" height="400" > 
   </div>
   
 - redis-deployment.yaml
+  <div>
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/redis-deployment.png" width="600" height="400" > 
+  </div>
+  
 - configMap.yaml
+  <div>
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/configMap.yaml.png" width="600" height="400" > 
+  </div>
+  
 - deployment.yaml
+  <div>
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/deployment.yaml.png" width="600" height="400" > 
+  </div>
+  
 - load-balancer-service.yaml
-
+   <div>
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/load-balancer-service.png" width="600" height="400" > 
+  </div>
