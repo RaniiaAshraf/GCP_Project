@@ -42,6 +42,10 @@ sudo docker push gcr.io/rania-project-375711/application
 ## .yml files
 
 - redis-service.yaml
+  <div>
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/redis-service.png" width="600" height="600" > 
+  </div>
+  
 - redis-deployment.yaml
 - configMap.yaml
 - deployment.yaml
