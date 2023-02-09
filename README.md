@@ -1,5 +1,5 @@
 # GCP_Project
-## Infrastructure used Terraform
+## ***Infrastructure used Terraform***
 - One VPC
 - Two Subntes 
 - Private Vm
