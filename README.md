@@ -41,9 +41,9 @@ sudo docker push gcr.io/rania-project-375711/application
 
 ## .yml files
 
--redis-service.yaml
--redis-deployment.yaml
--configMap.yaml
--deployment.yaml
--load-balancer-service.yaml
+- redis-service.yaml
+- redis-deployment.yaml
+- configMap.yaml
+- deployment.yaml
+- load-balancer-service.yaml
 
