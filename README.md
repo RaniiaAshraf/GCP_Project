@@ -75,3 +75,15 @@ sudo docker push gcr.io/rania-project-375711/application
 kubectl apply -f [yml files]
 kubectl get all
 ```
+ <div>
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/ssh.png" width="600" height="400" > 
+  </div>
+  
+4. Take ip from loadbalancer
+  <div>
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/loadbalancer.png" width="600" height="400" > 
+  </div>
+6. Paste it in the browser
+    <div>
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/finaloutput.png" width="600" height="400" > 
+  </div>
