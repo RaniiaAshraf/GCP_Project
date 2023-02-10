@@ -80,11 +80,15 @@ kubectl get all
   </div>
   
 4. Take ip from loadbalancer
+
   <div>
-  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/loadbalancer.png" width="400" height="500" > 
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/loadbalancer.png" width="400" height="400" > 
   </div>
+  
 6. Paste it in the browser
-    <div>
-   <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/output.png" width="600" height="400" >
+  
+  <div>
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/output.png" width="600" height="400" >
   <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/finaloutput.png" width="600" height="400" > 
   </div>
+  
