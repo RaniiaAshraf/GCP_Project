@@ -1,5 +1,5 @@
-# GCP_Project
-## ***Infrastructure used Terraform***
+# *** GCP_Project ***
+## infrastructure used Terraform
 - One VPC
 - Two Subntes   
     - Management subnet , restricted subnet
