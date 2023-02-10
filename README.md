@@ -2,7 +2,7 @@
 ## ***Infrastructure used Terraform***
 - One VPC
 - Two Subntes   
-    - Management , restricted
+    - Management subnet , restricted subnet
 - Private Vm
 - Loadbalancer
 - Service account 
