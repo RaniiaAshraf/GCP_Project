@@ -65,3 +65,13 @@ sudo docker push gcr.io/rania-project-375711/application
    <div>
   <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/load-balancer-service.png" width="600" height="400" > 
   </div>
+
+### Steps
+
+1. Connect ssh to private Vm 
+2. Take cluster connect link paste it in ssh window 
+3. Apply yaml files 
+```
+kubectl apply -f [yml files]
+kubectl get all
+```
