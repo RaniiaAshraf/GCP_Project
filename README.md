@@ -1,4 +1,4 @@
-# *** GCP_Project ***
+# ***GCP_Project***
 ## infrastructure used Terraform
 - One VPC
 - Two Subntes   
