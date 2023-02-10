@@ -81,7 +81,7 @@ kubectl get all
   
 4. Take ip from loadbalancer
   <div>
-  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/loadbalancer.png" width="400" height="400" > 
+  <img src="https://github.com/RaniiaAshraf/GCP_Project/blob/main/pics/loadbalancer.png" width="400" height="500" > 
   </div>
 6. Paste it in the browser
     <div>
